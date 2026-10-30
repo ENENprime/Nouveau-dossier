@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIMER</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <div class="Timer">
+        <div class="Configuration">
+            <input type="number" id="inputHours" placeholder="H" min="0" max="23"> :
+            <input type="number" id="inputMinutes" placeholder="M" min="0" max="59"> :
+            <input type="number" id="inputSeconds" placeholder="S" min="0" max="59">
+        </div>
+
+        <div class="adds">
+            <button class="btn-fast" data-time="60">+1 Min</button>
+            <button class="btn-fast" data-time="300">+5 Mins</button>
+            <button class="btn-fast" data-time="600">+10 Mins</button>
+        </div>
+
+        <div id="display">00:00:00</div>
+
+        <div class="boutons">
+            <button id="Start">▶️</button>
+            <button id="Pause">⏸️</button>
+            <button id="Reset">🔄</button>
+        </div>
+    </div>
+
+    <audio id="alarm" src="https://mixkit.co" preload="auto"></audio>
+    <script src="script2.js"></script>
+
+</body>
+</html>
