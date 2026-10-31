@@ -4,6 +4,7 @@ A website made for students to test their capacities when faced with external an
 
 ## Features 
 * **Calculator** A user friendly calculator used for simple **ARITHMETIC Computation**
+* **A timer** To time your self
 * **Past papers** A collection of randomly selected papers put at the disposal of students to test their capacities.
 * **A page used for Physolophical thoughs** I designed a spacial page for us to really understand what the world of tomorrow is waiting from us.
 * **Relaxing and Reconcentration** Here you will find a collection of well selected songs to accompany you in your mission.
@@ -22,18 +23,19 @@ Just click on the link above to view the site.
 #Site web pour élèves VERSION Française
 Un site conçu pour les élèves pour tester leur aptitudes face a d'autre épreuves externes et étrangère.
 
-##Caractéristiques 
+## Caractéristiques 
 * **Calculatrice** Une calculatrice intégré qui vous aidera a faire des **calcules d'ARITHMETIQUE** Basique
+* **Un Chronometre** Pour une auto chronometration
 * **Aciennes Epreuves** Une collection d'épreuves selectionée par hasard mis a votre disposition pour tester vos capaciters.
 * **Une page pour une virée phylosophique** J'ai crée ine page exclusivement pour qu'on comprenne exactement ce que le monde de demain attend de nous.  
 * **Relaxation et Reconcentration** Ici vous aller trouver une collection de song pour vous accompagner dans votre quête.
 * **Version EN Intégré** Ce site a éte fait en anglais et en français
 
-##Fait avec
-* **HTML**
-* **CSS**
-* **JavaScript**
+## Fait avec
+* **HTML** Le skelet du site
+* **CSS** La beauté externe du site
+* **JavaScript** Le coté logique du site 
 
-##Comment utiliser 
+## Comment utiliser 
 Ce site a été rendu simple et amical pour tous. Il vous suffit simplement de cliquer sur le lien si dessus pour acceder au site pas de connexion requise.
 
